@@ -11,14 +11,14 @@ body {
 .banner {
 	background-color: #AF4D7B;
 	overflow: hidden;
-    padding: 5px;
-    z-index: 10;
-    height: 39px;
+    	padding: 5px;
+    	z-index: 10;
+    	height: 39px;
 }
 
 .logo {
-    top: -19px;
-    left: 18%;
+	top: -19px;
+	left: 18%;
 }
 
 .trellologo {
@@ -30,10 +30,10 @@ body {
 	background-color: #C782A2;
 	height: 30px;
 	right: 0.8%;
-    border-radius: 5px;
-    color: #FFFFFF;
-    font-size: 15px;
-    font-weight: bold;
+    	border-radius: 5px;
+	color: #FFFFFF;
+	font-size: 15px;
+	font-weight: bold;
 }
 
 .edicionletrasbanner {
@@ -43,19 +43,19 @@ body {
 .iconosolo {
 	background-color: #C782A2;
 	border-radius: 5px;
-    color: #FFFFFF;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 30px;
-    margin-right: 52px;
-    min-width: 30px;
+    	color: #FFFFFF;
+    	font-size: 18px;
+    	font-weight: 700;
+    	line-height: 30px;
+    	margin-right: 52px;
+    	min-width: 30px;
 }
 .uno {
-    margin-left: 73px;
+    	margin-left: 73px;
 }
 
 .dos {
-    margin-left: 147px;
+	margin-left: 147px;
 }
 
 .tres {
@@ -76,10 +76,10 @@ body {
 
 .letras {
 	border-radius: 5px;
-    color: #FFFFFF;
-    font-size: 14px;
-    font-weight: 700;
-    margin-left: 3%;
+    	color: #FFFFFF;
+    	font-size: 14px;
+    	font-weight: 700;
+    	margin-left: 3%;
 }
 
 .cajanombre {
@@ -87,19 +87,19 @@ body {
 	border-bottom-right-radius: 5px;
 	border-top-right-radius: 5px;
 	line-height: 30px;
-    margin-right: 43px;
+    	margin-right: 43px;
 	min-width: 149px;
-    margin-left: 122%;
+    	margin-left: 122%;
 }
 
 .cajainiciales {
 	background-color: #D6DADC;
 	border-bottom-left-radius: 5px;
-    border-top-left-radius: 5px;
+    	border-top-left-radius: 5px;
 	line-height: 30px;
-    margin-right: 52px;
+    	margin-right: 52px;
 	min-width: 40px;
-    margin-left: 388%;
+    	margin-left: 388%;
 }
 
 .letrasblack {
@@ -115,7 +115,7 @@ body {
 .form {
     background-color: #E2E4E6;
     width: 145%;
-    height: 140px
+    height: 140px;
     padding-top: 5%;
     padding-left: 2%;
     margin-left: -19px;
@@ -139,7 +139,7 @@ body {
     font-family: 'Patua One', cursive;
 }
 
-div form .añadirtarjeta {
+div form .anadirtarjeta {
     margin-left: 3%;
  }
 
