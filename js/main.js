@@ -1,4 +1,4 @@
-window.addEventLister("load"function()){
+window.addEventListener("load"function() {
 	var form = document.getElementId("form");
 	var dentro = document.getElementById("dentro");
 	var anadirTarjeta = document.getElementById("anadirTarjeta");
@@ -10,4 +10,5 @@ window.addEventLister("load"function()){
 	function mostrar() {
 		anadirTarjeta.classList.add("ocultar");
 		dentro.classList.remove("ocultar");
-};
+	};
+});
