@@ -8,6 +8,6 @@ window.addEventLister("load"function()){
 	dentro.classList.add("ocultar");
 	form.addEventListener("click", mostrar);
 	function mostrar() {
-		añadirTarjeta.classList.add("ocultar");
+		anadirTarjeta.classList.add("ocultar");
 		dentro.classList.remove("ocultar");
 };
